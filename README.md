@@ -4,7 +4,7 @@
 - 📫 To reach me: www.sunil17.com.np
 - 💕 Currently I'm attempting #100daysofcodingchallenge
 ### Connect with me: 
-<a href="www.sunil17.com.np">[<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg" />]</a>
+<a href="www.sunil17.com.np" type="icon" src="https://github.com/Khostaa/Web/blob/main/img/website.svg">[<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg" />]</a>
 [<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/facebook.svg" />] 
 [<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/instagram.svg" />] 
 [<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/twitter.svg" />] 
