@@ -22,11 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div>
+<a>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khostaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   <img src="https://github-readme-stats.vercel.app/api?username=Khostaa&show_icons=true&theme=gruvbox" width="400" height="200">
- </div>
+ </a>
 
 ### :fire: My Stats:
 
