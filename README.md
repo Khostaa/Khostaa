@@ -4,8 +4,14 @@
 - 📫 To reach me: www.sunil17.com.np
 - 💕 Currently I'm attempting #100daysofcodingchallenge
 ### Connect with me: 
-[<img align="left" alt="Sunil" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" />] [facebook]
-https://www.instagram.com/sunil_poudel17/
+[<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg" />] 
+[<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/facebook.svg" />] 
+[<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/instagram.svg" />] 
+[<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/twitter.svg" />] 
+[<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/linkedin.svg" />] 
+[<img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/discord.svg" />]
+
+ 
 <!---
 Khostaa/Khostaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
