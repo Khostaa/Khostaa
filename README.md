@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sunil (aka Khosta)
-- 👀 I’m interested in learing new things.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently exploring different stuffs.
 - 📫 To reach me: www.sunil17.com.np
 - 💕 Currently I'm attempting #100daysofcodingchallenge
