@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently exploring different stuffs.
 - 💕 Currently I'm attempting #100daysofcodingchallenge
-###📫 Connect with me: 
+- 
+📫 ### Connect with me: 
 <a href="https://www.sunil17.com.np/" target="_blank"> <img align="left" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg"/></a>
 <a href="https://www.facebook.com/sunilpoudel.17" target="_blank"><img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/facebook.svg" /> </a>
 <a href="https://www.instagram.com/sunil_poudel17/" target="_blank"><img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/instagram.svg" /></a>
