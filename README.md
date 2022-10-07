@@ -4,7 +4,7 @@
 - 📫 To reach me: www.sunil17.com.np
 - 💕 Currently I'm attempting #100daysofcodingchallenge
 ### Connect with me: 
-<a href= "https://www.facebook.com/sunilpoudel.17">Facebook</a>
+[<img align="left" alt="Sunil" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" />] [facebook]
 https://www.instagram.com/sunil_poudel17/
 <!---
 Khostaa/Khostaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
