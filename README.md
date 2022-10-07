@@ -3,14 +3,22 @@
 - 🌱 I’m currently exploring different stuffs.
 - 📫 To reach me: www.sunil17.com.np
 - 💕 Currently I'm attempting #100daysofcodingchallenge
-Connect with me: 
+### Connect with me: 
 https://www.facebook.com/sunilpoudel.17
 https://www.instagram.com/sunil_poudel17/
 <!---
 Khostaa/Khostaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+### :hammer_and_wrench: Languages and Tools :
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"  title="arduino" alt="arduino" width="40" height="40"/>&nbsp; 
+</div>
 
 
 
@@ -25,4 +33,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khostaa&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=Khostaa&show_icons=true&theme=dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Khostaa&show_icons=true&theme=gruvbox" width="400">
