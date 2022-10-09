@@ -5,12 +5,12 @@
 - 📧 info@sunil17.com.np
 
 ### Connect with me: 
-<a href="https://www.sunil17.com.np/" target="blank"> <img align="left" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg"/></a>
-<a href="https://www.facebook.com/sunilpoudel.17" target="_blank"><img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/facebook.svg" /> </a>
-<a href="https://www.instagram.com/sunil_poudel17/" target="_blank"><img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/instagram.svg" /></a>
-<a href="https://twitter.com/Sunil_Poudel17" target="_blank"><img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/sunil-poudel-17a042/" target="_blank"><img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/linkedin.svg" /></a>
-<a href="https://discord.gg/AsnMswFT25" target="_blank"><img align="left" alt="Sunil" width="22px" src="https://github.com/Khostaa/Web/blob/main/img/discord.svg" /></a>
+<a href="https://www.sunil17.com.np/" target="blank"> <img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg"/></a>
+<a href="https://www.facebook.com/sunilpoudel.17" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/facebook.svg" /> </a>
+<a href="https://www.instagram.com/sunil_poudel17/" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/instagram.svg" /></a>
+<a href="https://twitter.com/Sunil_Poudel17" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/sunil-poudel-17a042/" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/linkedin.svg" /></a>
+<a href="https://discord.gg/AsnMswFT25" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/discord.svg" /></a>
 <br>
 
  
