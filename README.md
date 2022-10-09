@@ -32,11 +32,11 @@ You can click the Preview link to take a look at your changes.
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khostaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Khostaa&show_icons=true&theme=gruvbox" width="400" height="200"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khostaa&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### :fire: My Stats:
+  <img src="https://github-readme-stats.vercel.app/api?username=Khostaa&show_icons=true&theme=gruvbox" width="400" height="400"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khostaa&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 
-### :fire: My Stats:
+
 
 
 
