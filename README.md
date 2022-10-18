@@ -11,7 +11,7 @@
 <a href="https://twitter.com/Sunil_Poudel17" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/sunil-poudel-17a042/" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/linkedin.svg" /></a>
 <a href="https://discord.gg/AsnMswFT25" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/discord.svg" /></a>
-<a href="https://sunil17.com.np" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/medium.svg" /></a>
+<a href="https://sunil17.medium.com" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/medium.svg" /></a>
 
 <br>
 
