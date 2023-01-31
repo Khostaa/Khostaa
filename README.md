@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sunil (aka Khosta)
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently exploring different stuffs.
+- 🌱 Learning...
 - 📧 info@sunil17.com.np
 
 ### Connect with me: 
