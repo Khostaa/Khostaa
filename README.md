@@ -4,7 +4,7 @@
 
 ### Connect with me: 
 <a href="https://www.sunil17.com.np/" target="blank"> <img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg"/></a>
-<a href="https://www.facebook.com/sunilpoudel.17" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/facebook.svg" /> </a>
+<a href="https://www.facebook.com/sunil.poudel17" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/facebook.svg" /> </a>
 <a href="https://www.instagram.com/sunil_poudel17/" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/instagram.svg" /></a>
 <a href="https://twitter.com/Sunil_Poudel17" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/khostaa/" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/linkedin.svg" /></a>
