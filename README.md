@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunil (aka Khosta)
 - 🌱 Learning...
-- 📧 info@sunil17.com.np
+- 📧 mailkhosta@gmail.com
 
 ### Connect with me: 
 <a href="https://www.sunil17.com.np/" target="blank"> <img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg"/></a>
