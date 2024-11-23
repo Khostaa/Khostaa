@@ -45,7 +45,6 @@ You can click the Preview link to take a look at your changes.
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khostaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)]
 ### :fire: My Stats:
   <img src="https://github-readme-stats.vercel.app/api?username=Khostaa&show_icons=true&theme=gruvbox"> 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Khostaa)](https://git.io/streak-stats)]
 
 
 
