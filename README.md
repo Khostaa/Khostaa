@@ -30,7 +30,6 @@ You can click the Preview link to take a look at your changes.
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"  title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg"  title="atom" alt="atom" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="github" alt="github" width="40" height="40"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="visual studio code" alt="visual studio code" width="40" height="40"/>&nbsp;
  <a href="https://leetcode.com/Khosta/" target="_blank"><img align="left" width="40" height="40" src="https://github.com/Khostaa/Web/blob/main/img/leetcode.png" /></a>
