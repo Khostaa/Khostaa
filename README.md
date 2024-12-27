@@ -3,9 +3,6 @@
 - 📧 mailkhosta@gmail.com
 
 
-![](https://komarev.com/ghpvc/?username=Khostaa&color=2cad6d&style=flat&abbreviated=true)
-
-
 ### Connect with me: 
 <a href="https://www.sunil17.com.np/" target="blank"> <img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/website.svg"/></a>
 <a href="https://www.facebook.com/sunil.poudel17" target="_blank"><img align="left" width="27px" src="https://github.com/Khostaa/Web/blob/main/img/facebook.svg" /> </a>
